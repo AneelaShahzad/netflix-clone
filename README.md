@@ -45,7 +45,7 @@ netflix-clone/
    cd netflix-clone
    ```
 
-3. Open the `netflixClone.html` file in your browser  
+3. Open the `index.html` file in your browser  
    (double-click or right-click → Open With → Browser)
 
 4. Explore the homepage and signup functionality
