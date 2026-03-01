@@ -5,7 +5,7 @@ A **responsive Netflix clone** built using **HTML, CSS, Bootstrap, and JavaScrip
 ---
 
 ## 🔗 Live Demo
-[View Live Project](https://yourusername.github.io/netflix-clone/)  
+[View Live Project](https://AneelaShahzad.github.io/netflix-clone/)  
 
 ---
 
@@ -19,17 +19,11 @@ A **responsive Netflix clone** built using **HTML, CSS, Bootstrap, and JavaScrip
 
 ## 📂 Project Structure
 netflix-clone/
-│── index.html
-│── signup.html
-│── css/
-│ └── style.css
-│── js/
-│ └── script.js
+│── netflixClone.html
+│── netflixClonestyle.css
+│── netflixClonemedia.css
+│── netflixClone.js
 │── images/
-│ ├── netflixlogo.png
-│ ├── netflixBG.jpg
-│ └── poster1.jpg ...
-
 
 ---
 
@@ -42,10 +36,18 @@ netflix-clone/
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:  
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/AneelaShahzad/netflix-clone.git
-   cd netflix-clone
-   Open the index.html file in your browser (double-click or right-click → Open With → Browser)
+   ```
 
-Explore the homepage and signup page functionality
+2. Navigate to the project folder:
+   ```bash
+   cd netflix-clone
+   ```
+
+3. Open the `index.html` file in your browser  
+   (double-click or right-click → Open With → Browser)
+
+4. Explore the homepage and signup page functionality
