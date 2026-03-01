@@ -11,10 +11,13 @@ A **responsive Netflix clone** built using **HTML, CSS, Bootstrap, and JavaScrip
 - JavaScript (for form validation and interactivity)  
 
 ---
+## 🔗 Live Demo
+[View Live Project](https://AneelaShahzad.github.io/netflix-clone/)  
 
+---
 ## Project Structure
 netflix-clone/
-│── netflixClone.html
+│── index.html
 │── netflixClonestyle.css
 │── netflixClonemedia.css
 │── netflixClone.js
