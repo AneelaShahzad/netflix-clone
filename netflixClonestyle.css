@@ -1,0 +1,224 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    /* height:5000px; */
+}
+.signinBtn{
+    color:white;
+    background-color: rgb(299,9,20);
+    border:none;
+    border-radius: 5px;
+}
+.bg{
+    background-image: url(images/netflixBG.jpg);
+    /* background-color: rgba(0, 0, 0, 0.049); */
+    /* opacity: 0.9; */
+    background-size: cover;
+    height:100vh;
+}
+.banner h1{
+    font-weight: 900;
+    font-size: 55px;
+    /* font-style: net; */
+}
+.banner p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 37px;
+}
+.banner h6{
+    font-size: 18px;
+    margin-bottom: -30px;
+}
+/* .logo{
+    margin-left:50px;
+} */
+.emailInput{
+    /* border:none; */
+    color:white;
+    border:2px solid rgba(220, 220, 220, 0.526);
+    border-radius: 5px;
+    width:100%;
+    font-size: larger;
+    outline:none;
+    height:57px;
+}
+.rowClass{
+    gap:0px;
+}
+
+.emailInput::placeholder {
+  color: #b3b3b3;
+  opacity: 1;
+  outline:none;
+}
+.emailInput:focus{
+    border-color: white !important;
+  box-shadow: none !important;
+  outline: none;
+  color: white; 
+}
+.startBtn{
+    background-color: rgb(299,9,20);
+    color:white;
+    border:none;
+    border-radius: 10px;
+    height:58px;
+    width:100%;
+}
+.startBtn{
+    font-size:25px;
+    font-weight: 630;
+    transition:all 0.5s ease;
+}
+.startBtn:hover ,.startBtnTwo:hover{
+    background-color:#c60404;
+    /* transition:all 0.5s ease; */
+}
+.secondPart{
+    background-color: black;
+    border-top-left-radius: 70%;
+    border-top-right-radius: 70% ;
+    border-top: 5px solid #ff0000;
+    /* background: transparent; */
+    height:100px;
+    margin-top: -50px;
+    /* width:100vw; */
+}
+
+
+.scroll {
+  scrollbar-width: none; /* Firefox */
+}
+.scroll::-webkit-scrollbar {
+  display: none; 
+  /* Chrome, Safari */
+}
+
+.card{
+    height:280px;
+    border:none;
+    transition: transform 0.1s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.08);
+    z-index: 10; /* so it appears above other cards */
+}
+
+.reasons{
+    color:white;
+}
+.reasonDiv{
+    /* background: linear-gradient(135deg, #5e0acc, #000000, #003366); */
+    /* background: linear-gradient(135deg,#8700BE,#000000,#0046B4); */
+    background: linear-gradient(135deg, #192247, #0f0f0f, #28023a);
+    height:330px;
+    border-radius: 15px;
+}
+.reasonDiv h3{
+    font-size: 25px;
+    font-weight: 570;
+}
+.reasonDiv p{
+    color:rgba(220, 220, 220, 0.796);
+    font-size: 16px;
+    font-weight: 500;
+}
+.reasonimg{
+    height:100px;
+    margin-left: 100px;
+    /* margin-top: 20px; */
+    /* margin-bottom: auto; */
+}
+.accordion-item{
+    background-color: rgba(128, 128, 128, 0.024);
+    color:white;
+    outline:none;
+    border:none;
+    margin-bottom:10px;
+}
+/* .accordion-header{
+
+} */
+/* .accordion-item:hover{
+    border:none;
+    outline:none;
+} */
+ .accordion-button:hover,
+.accordion-button:focus {
+  background-color: rgba(128, 128, 128, 0.578);
+  color: inherit;
+  border: none;
+  box-shadow: none;
+}
+.accordion-item button{
+    background-color: rgba(128, 128, 128, 0.307);
+    color:white;
+    padding:23px;
+    outline:none;
+    border:none
+}
+.accordion-item h5{
+    font-size: 25px;
+    font-weight: 400;
+    word-spacing: 5px;
+    padding:10px;
+    /* background-color: rgba(128, 128, 128, 0.307); */
+}
+.accordion-body{
+    background-color: rgba(128, 128, 128, 0.307);
+}
+.accordion-button:not(.collapsed) {
+  background-color: rgba(128, 128, 128, 0.578) !important;
+  color: black;
+  box-shadow: none;
+}
+.readyTowatchClass{
+    font-size: 20px;
+}
+.footerParah{
+    color:#b3b3b3;
+    text-decoration: underline;
+    font-size: 17px;
+}
+.footerPoints{
+    color:#b3b3b3;
+    text-decoration: underline;
+    font-size: 15px;
+}
+.footerPoints a{
+    color:#b3b3b3;
+}
+select{
+    font-size: 16px;
+    width:130px;
+    margin-bottom: 20px;
+}
+.title{
+    font-size: 17px;
+    color:#b3b3b3;
+    margin-top: 19px;
+}
+.lastLine{
+    color: #b3b3b3c2;
+    margin-bottom: 100px;
+}
+/* .errorMsg{
+    
+} */
+/* .emailTwo{
+    background-color: rgba(128, 128, 128, 0.174);
+    color:#b3b3b3
+}
+.startBtnTwo{
+    background-color: #ff0000;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+    transition:all 0.5s ease;
+} */
+/* .startBtnTwo */
