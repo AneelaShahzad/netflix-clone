@@ -41,14 +41,11 @@ netflix-clone/
 
 ---
 
-## 📸 Screenshots
-
-![Homepage](images/netflixBG.jpg)
-![Signup Page](images/r1.png)
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/AneelaShahzad/netflix-clone.git
+   cd netflix-clone
+   Open the index.html file in your browser (double-click or right-click → Open With → Browser)
+
+Explore the homepage and signup page functionality
