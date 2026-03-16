@@ -48,5 +48,7 @@ netflix-clone/
 
 ## Author
 
-Aneela Shahzad
-GitHub: https://github.com/AneelaShahzad
+- Aneela Shahzad
+- GitHub: https://github.com/AneelaShahzad
+- Linkedin : https://www.linkedin.com/in/aneela-shahzad-6b7a023b0/
+- contact on gamil for any kind of coordination and opportunities : aneela.techworks@gmail.com
