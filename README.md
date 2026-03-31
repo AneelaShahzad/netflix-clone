@@ -46,6 +46,8 @@ netflix-clone/
 
 4. Explore the homepage and signup functionality
 
+---
+
 ## Author
 
 - Aneela Shahzad
